@@ -1,6 +1,5 @@
 ﻿
 Просто файл
 Вторая строка
-Третья строка
-sddds
-rwrwrwrwr
+Третья строк
+aaaaaaaaaaaaaaaaaaaaa
